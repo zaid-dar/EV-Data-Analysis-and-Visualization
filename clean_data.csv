@@ -1,0 +1,66 @@
+Manufacturer,EV Model,EV Type,Range
+Al Damani,DMV300,BEV,405
+Audi,E-Tron,BEV,436
+AXL,SHARX-5,BEV,500
+BMW,iX3,BEV,460
+BMW,i7,BEV,625
+BMW,i4,BEV,600
+BMW,iX,BEV,600
+BYD,BYD Atto 3,BEV,420
+Cadillac,LYRIQ,BEV,482
+Chevrolet,Bolt,BEV,459
+EGME,EGME Electric Van,BEV,300
+GMC,Hummer EV SUV,BEV,482
+GMC,Hummer EV Pick-up,BEV,560
+Hyundai,KONA,BEV,482
+Jaguar Land Rover,I-Pace,BEV,470
+Mercedes-Benz,EQB,BEV,419
+Mercedes-Benz,EQS SUV,BEV,660
+Mercedes-Benz,EQE,BEV,660
+Mercedes-Benz,EQA,BEV,426
+Mercedes-Benz,EQC,BEV,417
+Mercedes-Benz,EQS,BEV,785
+MG,ZS EV,BEV,263
+Peugeot,E-Partner,BEV,280
+Peugeot,E-Expert,BEV,280
+Peugeot,E-2008,BEV,300
+Peugeot,E-208,BEV,300
+Polestar,Polestar 2,BEV,540
+Porsche,Taycan,BEV,380
+Renault,Zoe,BEV,395
+Skywell,ET5,BEV,520
+Tesla,Model S,BEV,610
+Tesla,Model X,BEV,507
+Tesla,Model 3,BEV,409
+Tesla,Model Y,BEV,507
+Volvo,XC40 Recharge,BEV,418
+Volvo,Volvo EX90,BEV,600
+Bentley,Flying Spur Hybrid Mulliner,PHEV,41
+Ferrari,SF90 Stradale,PHEV,25
+Hyundai,Santa Fe Plug-in Hybrid,PHEV,48
+Jaguar,E-Pace Plug-in Hybrid,PHEV,68
+Jaguar,F-Pace Plug-in Hybrid,PHEV,59
+Jeep,Wrangler 4xe,PHEV,34
+McLaren,Artura,PHEV,31
+Mini Cooper,Countryman Plug-in Hybrid,PHEV,61
+Peugeot,408 Plug-in Hybrid,PHEV,0
+Peugeot,3008 SUV HYBRID4,PHEV,45
+Porsche,Cayenne E-Hybrid,PHEV,36
+Porsche,Panamera 4 E-Hybrid,PHEV,44
+Volvo,XC90 Recharge,PHEV,51
+Volvo,XC60 Recharge,PHEV,53
+Volvo,S90 Recharge,PHEV,61
+Bentley,Flying Spur Hybrid,HEV,0
+Hyundai,Santa Fe Hybrid,HEV,0
+Lexus,ES Hybrid,HEV,0
+Lexus,NX Hybrid,HEV,0
+Lexus,RX Hybrid,HEV,0
+Lexus,LS Hybrid,HEV,0
+Maserati,Levante GT Hybrid,HEV,0
+Maserati,Ghibli GT Hybrid,HEV,0
+Mercedes-Benz,S-class Sedan Hybrid,HEV,0
+Toyota,Corolla Hybrid,HEV,0
+Toyota,C-HR Hybrid,HEV,0
+Toyota,Camry Hybrid,HEV,0
+Toyota,RAV4 Hybrid,HEV,0
+Toyota,Highlander Hybrid,HEV,0
